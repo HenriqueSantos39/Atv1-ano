@@ -1,0 +1,86 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body {
+    background-image: url(https://media.istockphoto.com/photos/game-symbols-playstation-5-icons-on-a-black-background-cross-triangle-picture-id1309172116?b=1&k=20&m=1309172116&s=170667a&w=0&h=tKFiKMsXevGgmBL_ztAIlkpIHD5mnVFPVjBqJnpmmxQ=);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #ffff;
+}
+.formulario {
+    width: 50%;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #696969;
+}
+.cabecalho{
+    padding: 1.2rem;
+    margin-bottom: 1px;
+    text-align: center;
+}
+.cabecalho h2 {
+    padding: 2px;
+    font-size: 7rem;
+}
+.cabecalho p {
+    font-size: 2rem;
+    color: black;
+}
+.satisfacao {
+    margin: 12px;
+}
+.inputs {
+    padding: 10px;
+    font-size: 25px;
+}
+.inputs p {
+    font-size: 25px;
+}
+.selecao {
+    padding: 10px;
+    font-size: 30px;
+}
+.satisfacao {
+    padding: 10px;
+    font-size: 25px;
+}
+.satisfacao p {
+    margin: 3px;
+}
+button {
+    font-size: 30px;
+    border-radius: 15px;
+    margin-top: 12px;
+    background: #005C97;  
+    background: -webkit-linear-gradient(to right, #363795, #005C97);  
+    background: linear-gradient(to right, #363795, #005C97); 
+    color: #FFFF;
+}
+.img-wrapper {
+    display: flex;
+    margin-left: 79%;
+    margin-bottom: 50%;
+}
+fieldset {
+    height: auto;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 20px
+}
+.comentarios textarea{
+    padding-top: 1px;
+    max-height: 10rem;
+    max-width: 30rem;
+}
+.comentarios p{
+    font-size: 25px;
+}
+.sellecao {
+    padding: 10px;
+    font-size: 35px; 
+}
